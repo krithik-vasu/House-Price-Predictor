@@ -5,7 +5,7 @@ This project predicts house prices based on user inputs such as location, area, 
 ## Technologies Used
 - Python
 - MySQL
-- Machine Learning (Regression)
+- Machine Learning (Random forestRegressor)
 - Pandas, NumPy, Scikit-learn
 - Streamlit
 
